@@ -1,0 +1,4 @@
+apiVersion: v1
+name: my_postgres_helm_chart
+version: 1.0.1
+description: This chart deploys a postgresql instance on k8s cluster and can be accessed using 
